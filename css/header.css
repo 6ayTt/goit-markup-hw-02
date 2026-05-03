@@ -1,0 +1,10 @@
+.main-nav:hover,
+.main-nav:active{
+   color: #404BBF;
+}
+.link-logo{
+    font-family: "Raleway", sans-serif;
+}
+.logo{
+    color: #4D5AE5;
+}
