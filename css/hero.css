@@ -16,7 +16,11 @@
     letter-spacing: 0.04em;
     font-weight: 500;
 }
-.button-hero:hover,
+.button-hero:hover{
+    background-color: #404BBF;
+    color: #FFFFFF;
+    cursor: pointer;
+}
 .button-hero:focus{
     background-color: #404BBF;
     color: #FFFFFF;

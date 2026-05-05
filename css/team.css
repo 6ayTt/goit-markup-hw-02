@@ -16,6 +16,9 @@
     color: #2E2F42;
     text-align: center;
 }
+.list-team .list-taem-item {
+    background-color: #ffffff;
+}
 .paragraph-team{
     font-weight: 400;
     font-size: 16px;
